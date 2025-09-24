@@ -9,7 +9,7 @@ nim : 312410521
 kelas : TI.24.A5
 
 ### menamakan file 
-![foto] (https://github.com/azkaa-pixel/praktikum1-smt3/blob/e7e6f5e53c742017ae883a6bbfb3796c694e598e/ss%20praktikum%201%20-%20se3/ss%201.png) 
+![foto] () 
 
 #### ```hasil``` 
 ![foto]() 
