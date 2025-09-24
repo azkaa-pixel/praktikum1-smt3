@@ -150,7 +150,22 @@ Tag ```<a>``` membuat hyperlink. Atribut ```href``` berisi alamat tujuan. Link b
     masing-masing nilai antribut tersebut?
    
 ### jawaban 
+1. ada,saat kesalahan penulisan tag, maka hasil di browser bisa tidak sesuai, ada error di tampilannya , atau kode tidak terbaca dengan benar.
 
+2. Tag ```<p>``` membuat paragraf baru lengkap dengan jarak atas-bawah, kalau ```<br>``` hanya memindahkan teks ke baris baru tanpa membuat paragraf.
+
+3. Atribut ```title``` : menampilkan keterangan saat kursor diarahkan ke gambar
+   ```alt``` : menampilkan teks pengganti jika gambar tidak bisa dimuat.
+
+5. Sebaiknya cukup isi salah satu, misalnya ```width```, supaya tinggi menyesuaikan otomatis; jika keduanya diisi sembarangan, gambar bisa terlihat tidak proporsional.
+
+6. ```blank``` → membuka link di tab baru,
+
+   ```self``` → membuka di tab/halaman yang sama,
+
+   ```top``` → membuka di jendela paling atas (keluar dari frame),
+
+   ```parent``` → membuka di frame induk jika ada.
 
 
 
