@@ -27,8 +27,11 @@ Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling men
 Paragraf dibuat dengan menggunakan tag dasar html.
 </p>
 ```
-#### ```hasil```
+#### ```- hasil```
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%203.png) 
+
+#### ```- penjelasan``` :
+Tag ```<p>``` digunakan untuk membuat paragraf. Setiap kali kamu menulis ```<p>``` ... ```</p>```, browser otomatis memberi jarak antar paragraf.
 
 ### kemudian mengatur atribut berikut dan amati perubahan nya 
 
@@ -44,8 +47,13 @@ Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling men
 Paragraf dibuat dengan menggunakan tag dasar html.
 </p>
 ```
-#### ```hasil```
+#### ```- hasil```
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%204.png) 
+
+#### ```- penjelasan``` :
+Tag ```<p style="text-align: center;">``` digunakan untuk membuat paragraf dengan gaya CSS yang mengatur teks agar tampil rata tengah secara horizontal di halaman web.
+
+
 
 ### 2. menambahkan judul 
 ```html
@@ -55,16 +63,24 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <!-- judul paragraf kedua --> 
 <h2>Paragraf pada HTML</h2> 
 ```
-#### hasil 
+#### ```- hasil``` 
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%205.png) 
+
+#### ```- penjelasan``` :
+Tag ```<h1>``` sampai ```<h6>``` digunakan untuk heading (judul). ```<h1>``` adalah judul terbesar, sedangkan ```<h6>``` adalah yang terkecil.
+
 
 ### 3. memformatkan teks 
 
 ```html
 <mark>HTML dasar</mark>
 ```
-#### ```hasil```
+#### ```- hasil```
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%205.png) 
+
+#### ```- penjelasan``` :
+Tag HTML bisa dipakai untuk menambahkan format ke teks. Contohnya ```<b>``` untuk bold, ```<i>``` untuk italic, ```<mark>``` untuk highlight, ```<sub>``` untuk subscript, dan ```<sup>``` untuk superscript.
+
 
 ### 4. menyisipkan gambar 
 #### membuat 
@@ -77,8 +93,17 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <!-- menambahkan gambar pada dokumen --> 
 <img src="Logo_UPB.jpeg" title="Logo Univeritas Pelita Bangsa">
 ```
-#### ```hasil``` 
+#### ```- hasil``` 
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%207.png) 
+
+#### ```- penjelasan``` :
+Tag ```<img>``` digunakan untuk menampilkan gambar.
+
+- src menunjuk lokasi gambar.
+  
+- width dan height untuk mengatur ukuran.
+  
+- title untuk memberi keterangan gambar (muncul saat mouse diarahkan).
 
 #### mengatur ukuran foto
 ``` html
@@ -86,8 +111,11 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <img src="Logo_UPB.jpeg" width="200" title="Logo Univeritas Pelita Bangsa">
 ```
 
-### ```hasil```
+### ```- hasil```
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%208.png) 
+
+#### ```- penjelasan``` :
+Kode kedua menampilkan gambar yang sama tetapi lebarnya diatur menjadi 200 piksel sehingga tampil lebih kecil dan proporsiona
 
 ### 5. menambahkan hyperlink
 menambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
@@ -101,15 +129,25 @@ menambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 <hr>
 ```
 
-####  ```hasil``` 
+####  ```- hasil``` 
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%209.png) 
 
+#### ```- penjelasan``` :
+Tag ```<a>``` membuat hyperlink. Atribut ```href``` berisi alamat tujuan. Link bisa menuju file lokal (halaman lain di proyek) atau website eksternal.
+
+
 ## menjawab pertanyaan 
-1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? 
-2.	Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! 
-3.	Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! 
-4.	Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! 
-5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+    
+2.	Apa perbedaan dari tag ```<p>``` dengan tag ```<br>``` , berikan penjelasannya! 
+   
+3.	Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+   
+4.	Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut
+   diisi semua atau tidak? Berikan penjelasannya!
+  	
+5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada
+    masing-masing nilai antribut tersebut?
    
 ### jawaban 
 
