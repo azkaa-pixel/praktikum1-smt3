@@ -9,10 +9,10 @@ nim : 312410521
 kelas : TI.24.A5
 
 ### menamakan file 
-![foto] () 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%201.png) 
 
 #### ```hasil``` 
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%202.png) 
 
 ### 1. membuat paragraf 
 ```html
@@ -28,7 +28,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 </p>
 ```
 #### ```hasil```
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%203.png) 
 
 ### kemudian mengatur atribut berikut dan amati perubahan nya 
 
@@ -45,7 +45,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 </p>
 ```
 #### ```hasil```
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%204.png) 
 
 ### 2. menambahkan judul 
 ```html
@@ -56,7 +56,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <h2>Paragraf pada HTML</h2> 
 ```
 #### hasil 
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%205.png) 
 
 ### 3. memformatkan teks 
 
@@ -64,11 +64,11 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <mark>HTML dasar</mark>
 ```
 #### ```hasil```
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%205.png) 
 
 ### 4. menyisipkan gambar 
 #### membuat 
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%206.png) 
 
 ``` html
 <!-- sub judul paragraf --> 
@@ -78,7 +78,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 <img src="Logo_UPB.jpeg" title="Logo Univeritas Pelita Bangsa">
 ```
 #### ```hasil``` 
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%207.png) 
 
 #### mengatur ukuran foto
 ``` html
@@ -87,7 +87,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.
 ```
 
 ### ```hasil```
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%208.png) 
 
 ### 5. menambahkan hyperlink
 menambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
@@ -102,7 +102,7 @@ menambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 ```
 
 ####  ```hasil``` 
-![foto]() 
+![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%209.png) 
 
 ## menjawab pertanyaan 
 1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? 
