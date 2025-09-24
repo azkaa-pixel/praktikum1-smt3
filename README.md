@@ -105,13 +105,13 @@ Tag ```<img>``` digunakan untuk menampilkan gambar.
   
 - title untuk memberi keterangan gambar (muncul saat mouse diarahkan).
 
-#### mengatur ukuran foto
+### mengatur ukuran foto
 ``` html
 <!-- menambahkan gambar pada dokumen --> 
 <img src="Logo_UPB.jpeg" width="200" title="Logo Univeritas Pelita Bangsa">
 ```
 
-### ```- hasil```
+#### ```- hasil```
 ![foto](https://github.com/azkaa-pixel/praktikum1-smt3/blob/08e33fc59ff048087300dc22934bb60964d2ea3e/ss%20praktikum%201%20-%20se3/ss%208.png) 
 
 #### ```- penjelasan``` :
